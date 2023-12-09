@@ -3,11 +3,11 @@
 <h3 align="center">A passionate automation tester from India.</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjanagowda&label=Profile%20views&color=0e75b6&style=flat" alt="Manjanagowda" /> </p>
-- :seedling: I’m currently learning **RestAssured and  Mobile Testing using Appium , Python etc.**
+- :seedling: I’m currently learning RestAssured and  Mobile Testing using Appium , Python etc.
 <br>
-- :speech_balloon: Ask me about **Java,Selenium,Postman,Manual Testing .**
+- :speech_balloon: Ask me about Java,Selenium,Postman,Manual Testing .
 <br>
-- :mailbox: How to reach me **mvlinganagowdra@gmail.com**
+- :mailbox: How to reach me mvlinganagowdra@gmail.com
 - :page_facing_up: Know about my experiences [(https://drive.google.com/file/d/1Dn6n4p7LwSAjX2retBL9pifLMukHHilx/view?usp=sharing)]
 <br>
 - :zap: Fun fact **For me, software testing is like going on a treasure hunt. You get to dig into the work of expert developers and uncover any flaws or defects in the software. It's a bit like hacking, but completely legal. Finding and fixing bugs gives me an adrenaline rush, and I take pride in helping to build solid and reliable software for end users. When I see stakeholders stoked with the results of my hard work, it's super rewarding and makes my job even more satisfying. Happy bug hunting!**
