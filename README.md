@@ -1,7 +1,7 @@
 ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
 <h1 align="center">Hi :wave:, I'm Manjanagowda V L</h1>
 <h3 align="center">A passionate automation tester from India.</h3>
-<img  align="right" alt="Coding" width="500" height="600" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif">
+<img  align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjanagowda&label=Profile%20views&color=0e75b6&style=flat" alt="Manjanagowda" /> </p>
 - :seedling: I’m currently learning RestAssured and  Mobile Testing using Appium , Python etc.
 <br>
