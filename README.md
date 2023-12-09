@@ -10,7 +10,7 @@
 - :zap: Fun fact **For me, software testing is like going on a treasure hunt. You get to dig into the work of expert developers and uncover any flaws or defects in the software. It's a bit like hacking, but completely legal. Finding and fixing bugs gives me an adrenaline rush, and I take pride in helping to build solid and reliable software for end users. When I see stakeholders stoked with the results of my hard work, it's super rewarding and makes my job even more satisfying. Happy bug hunting!**
 h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manjunath l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjunath l" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mvpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjunath l" height="30" width="40" /></a>
 <a href="https://instagram.com/manjanagowdavl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manjanagowdavl" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manjanagowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manjanagowda" height="30" width="40" /></a>
 </p>
