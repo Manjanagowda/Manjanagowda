@@ -1,19 +1,17 @@
 ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
-<h1 align="center">Hi :wave:, I'm Sushanta Nandy</h1>
-<h3 align="center">A passionate frontend developer and automation tester from India.</h3>
+<h1 align="center">Hi :wave:, I'm Manjanagowda V L</h1>
+<h3 align="center">A passionate automation tester from India.</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantanandy&label=Profile%20views&color=0e75b6&style=flat" alt="sushantanandy" /> </p>
-- :seedling: I’m currently learning **React Native, React Js, etc.**
-- :memo: I regularly write articles on [https://www.linkedin.com/in/sushantanandy/](https://www.linkedin.com/in/sushantanandy/)
-- :speech_balloon: Ask me about **HTML, CSS, Java Script, Selenium, Postman.**
-- :mailbox: How to reach me **nandysushanta8@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjanagowda&label=Profile%20views&color=0e75b6&style=flat" alt="Manjanagowda" /> </p>
+- :seedling: I’m currently learning **RestAssured and  Mobile Testing using Appium , Python etc.**
+- :speech_balloon: Ask me about **Java,Selenium,Postman,Manual Testing .**
+- :mailbox: How to reach me **mvlinganagowdra@gmail.com**
 - :page_facing_up: Know about my experiences [https://drive.google.com/file/d/1jlB9H-iuSd4brGziDrfansesU5YgeqXj/view?usp=sharing](https://drive.google.com/file/d/1jlB9H-iuSd4brGziDrfansesU5YgeqXj/view?usp=sharing)
 - :zap: Fun fact **Programmers have a love-hate relationship with 'semicolon'. For them, it's not just a punctuation mark; it's a crucial component of their code, often responsible for late-night debugging sessions!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sushantanandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushantanandy" height="30" width="40" /></a>
-<a href="https://instagram.com/sushantnandi19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushantnandi19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nandysushanta8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandysushanta8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Manjanagowda V Linganagowdra" target="blank"><img align="center" src="https://raw.githubusercontent.com/Manjanagowda/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manjanagowda V L" height="30" width="40" /></a>
+<a href="https://instagram.com/manjanagowdavl" target="blank"><img align="center" src="https://raw.githubusercontent.com/Manjanagowda/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manjanagowda" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nandysusj6lq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandysusj6lq" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
