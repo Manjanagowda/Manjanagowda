@@ -1,4 +1,4 @@
-![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif)
 <h1 align="center">Hi :wave:, I'm Manjanagowda V L</h1>
 <h3 align="center">A passionate automation tester from India.</h3>
 <img  align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*63WG6R0wvA90tl3C.gif">
