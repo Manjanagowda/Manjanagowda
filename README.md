@@ -7,7 +7,7 @@
 - :speech_balloon: Ask me about **Java,Selenium,Postman,Manual Testing .**
 - :mailbox: How to reach me **mvlinganagowdra@gmail.com**
 - :page_facing_up: Know about my experiences [(https://drive.google.com/file/d/1Dn6n4p7LwSAjX2retBL9pifLMukHHilx/view?usp=sharing)]
-- :zap: Fun fact **Programmers have a love-hate relationship with 'semicolon'. For them, it's not just a punctuation mark; it's a crucial component of their code, often responsible for late-night debugging sessions!**
+- :zap: Fun fact **For me, software testing is like going on a treasure hunt. You get to dig into the work of expert developers and uncover any flaws or defects in the software. It's a bit like hacking, but completely legal. Finding and fixing bugs gives me an adrenaline rush, and I take pride in helping to build solid and reliable software for end users. When I see stakeholders stoked with the results of my hard work, it's super rewarding and makes my job even more satisfying. Happy bug hunting!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Manjanagowda V Linganagowdra" target="blank"><img align="center" src="https://raw.githubusercontent.com/Manjanagowda/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manjanagowda V L" height="30" width="40" /></a>
