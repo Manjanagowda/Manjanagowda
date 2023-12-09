@@ -1,7 +1,7 @@
 ![MasterHead](https://www.qcmore.com/blog/wp-content/uploads/2018/10/software-testing.jpg)
 <h1 align="center">Hi :wave:, I'm Manjanagowda V L</h1>
 <h3 align="center">A passionate automation tester from India.</h3>
-<img  align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*63WG6R0wvA90tl3C.gif">
+<img  align="right" alt="Coding" width="400" src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjanagowda&label=Profile%20views&color=0e75b6&style=flat" alt="Manjanagowda" /> </p>
 - :seedling: I’m currently learning RestAssured and  Mobile Testing using Appium , Python etc.
 <br>
